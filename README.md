@@ -41,7 +41,7 @@ The design is responsive and works seamlessly on both mobile and desktop devices
 
 2. Open the project folder:
    ```bash
-   gcd profile-card-task
+   cd profile-card-task
 
 3. Open index.html in your web browser.
    Open with Live server
